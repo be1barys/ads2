@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class npower{
+public class task4 {
     public static int powerN(int b, int n){
         if ( n == 0) {
             return 1;
